@@ -1,0 +1,1 @@
+# kadai04_LocalStorage_new
